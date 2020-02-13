@@ -1,1 +1,1 @@
-echo "test using git" > abc.txt
+echo "test using git"
