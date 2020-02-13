@@ -1,1 +1,1 @@
-echo "<h1>test index.html using git from jenkins + SCM + BUILD + POST BUILD </h1>" > index.html
+echo "<h1> <marquee> Gian Cihuy </marquee> </h1>" > index.html
